@@ -194,5 +194,6 @@ If you encounter issues:
 2. Verify your OpenAI API key has sufficient credits
 3. Ensure your Supabase project is properly configured
 4. Check the browser console for error messages
+5. Verify your internet connection and API endpoints are accessible
 
 For bugs or feature requests, please open an issue on GitHub.
